@@ -4,7 +4,7 @@
 
 This project implements knowledge distillation techniques using TorchTune to transfer knowledge from larger teacher models to smaller student models. The repository contains configurations and notebooks for training smaller, more efficient models while preserving the performance of larger models.
 
-![Knowledge Distillation Process Diagram]('images/knowledge_distillation.png)
+![Knowledge Distillation Process Diagram](images/knowledge_distillation.png)
 
 ## Project Structure
 
